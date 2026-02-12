@@ -1,4 +1,4 @@
-<h1 align="center">📘 CCNA Networking Lab Portfolio</h1>
+<h1 align="center"> CCNA Networking Lab Portfolio</h1>
 
 <p align="center">
 Hands-on routing & switching labs documenting practical CCNA-level networking concepts.
@@ -6,7 +6,7 @@ Hands-on routing & switching labs documenting practical CCNA-level networking co
 
 <hr>
 
-<h2>🎯 Objective</h2>
+<h2> Objective</h2>
 
 <ul>
   <li>Build strong foundational networking knowledge</li>
@@ -28,7 +28,7 @@ Hands-on routing & switching labs documenting practical CCNA-level networking co
 
 <hr>
 
-<h2>📂 Repository Structure</h2>
+<h2> Repository Structure</h2>
 
 <pre>
 ccna/
@@ -59,7 +59,7 @@ ccna/
 
 <hr>
 
-<h2>🧠 Core Concepts Covered</h2>
+<h2> Core Concepts Covered</h2>
 
 <ul>
   <li>OSI & TCP/IP Models</li>
@@ -75,7 +75,7 @@ ccna/
 
 <hr>
 
-<h2>🔎 Focus Areas</h2>
+<h2> Focus Areas</h2>
 
 <ul>
   <li>Logical IP Planning</li>
@@ -87,7 +87,7 @@ ccna/
 
 <hr>
 
-<h2>🚀 Professional Direction</h2>
+<h2> Professional Direction</h2>
 
 <p>
 This lab portfolio reflects structured practical work in routing, switching,
@@ -96,7 +96,7 @@ and foundational enterprise networking concepts.
 
 <br>
 
-<h3>👨‍💻 Author</h3>
+<h3> Author</h3>
 
 <p><strong>Suvro Biswas</strong><br>
 </p>
