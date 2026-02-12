@@ -5,7 +5,7 @@
 ##  Lab Overview
 This lab establishes the physical topology for a multi-branch network simulation connecting a New York Branch and a Tokyo Branch via a simulated Internet backbone.
 
-## 📋 Lab Instructions (Requirements)
+##  Lab Instructions (Requirements)
 * **Objective:** Create the network diagram displayed at 16:40 of the Day 1 video.
 * **Device Requirements:**
     * Cisco 2911 routers (x2)
@@ -16,7 +16,7 @@ This lab establishes the physical topology for a multi-branch network simulation
 * **Specific Roles:** Use a Laptop as the 'attacker' in the diagram.
 * **Cabling:** Connect the devices together using Packet Tracer's *'Automatically Choose Connection Type'* function.
 
-## 🛠 Hardware & Devices Used
+##  Hardware & Devices Used
 | Device Type | Model | Quantity | Names |
 | :--- | :--- | :--- | :--- |
 | **Routers** | Cisco 2911 | 3 | Router0, Router1, The Internet |
