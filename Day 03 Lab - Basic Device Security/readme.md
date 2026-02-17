@@ -73,7 +73,7 @@ enable secret 5 <encrypted_value>
 - Type 7 → Reversible (weak)
 - Type 5 → One-way hash (secure)
 
-![Running Configuration](show running-config.png)
+![Running Configuration](show-running-config.png)
 
 ---
 
