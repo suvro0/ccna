@@ -27,14 +27,6 @@ This lab demonstrates VLAN configuration, trunking, and inter-VLAN routing using
 - Assigned IP addresses to each VLAN
 - Verified connectivity between VLANs
 
----
-
-## Verification
-
-- Successful ping between devices in different VLANs
-- Inter-VLAN routing is working correctly
-
-![Ping Verification](your-image.png)
 
 ---
 
