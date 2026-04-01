@@ -28,7 +28,7 @@ Connectivity was tested using **ping**:
 - Allowed traffic → Successful
 - Restricted traffic → Blocked (Request timed out / Destination unreachable)
 
-![Ping Verification](ping-verification.png)
+![Ping Verification](topology.png)
 
 ---
 
