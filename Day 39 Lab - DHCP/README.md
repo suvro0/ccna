@@ -2,17 +2,17 @@
 
 This repository contains the configuration and topology for a DHCP lab. The goal is to configure a central router (R2) as a DHCP server, a remote router (R1) as a DHCP client and relay agent, and verify connectivity between end devices.
 
----
+##  Network Topology
 
-##  Topology Overview
+![Lab Topology](topology.png)
+
+## 📋 Topology Overview
 - **R2:** Central DHCP Server.
 - **R1:** DHCP Client (WAN) and DHCP Relay Agent (LAN).
 - **Subnets:**
-  - POOL1: `192.168.1.0/24` (PC1's network)
-  - POOL2: `192.168.2.0/24` (PC2's network)
-  - POOL3: `203.0.113.0/30` (Point-to-Point Link)
-
----
+  - **POOL1:** `192.168.1.0/24` (PC1's network)
+  - **POOL2:** `192.168.2.0/24` (PC2's network)
+  - **POOL3:** `203.0.113.0/30` (Point-to-Point Link)
 
 ##  Lab Objectives
 
@@ -59,4 +59,3 @@ ip dhcp pool POOL2
 ! Pool for R1-R2 Link
 ip dhcp pool POOL3
  network 203.0.113.0 255.255.255.252
-
